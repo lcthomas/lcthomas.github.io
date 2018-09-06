@@ -27,8 +27,11 @@ markdown: kramdown
 #theme: minima
 #plugins:
   #- jekyll-feed
-theme: jekyll-whiteglass
+#theme: jekyll-whiteglass
+#for Github
+remote_theme: yous/whiteglass
 plugins:
+  - jekyll-remote-theme
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
