@@ -13,7 +13,7 @@ permalink: /teaching/
 
 **Graduate Courses**
 
-- Digital Humanities: Theory, Method, Critique([Spring 2017](https://lindsaythomas.net/mll621)), co-taught with Allison Schifani
+- Digital Humanities: Theory, Method, Critique ([Spring 2017](https://lindsaythomas.net/mll621)), co-taught with Allison Schifani
 
 ### Clemson University
 
