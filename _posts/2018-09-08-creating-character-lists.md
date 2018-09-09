@@ -14,7 +14,7 @@ This post, however, focuses on a method for creating character lists to use with
 
 Will the method I am about to describe save you that labor and time? Not really! But it will provide you with a starting point for that work, particularly for novels for which you cannot find a reliable or full list of characters.
 
-The character list the tool requires is formatted simply: `A: B1, B2, B3, etc,` where `A` is the name the character will be listed as in your networks, and `B1` etc are any name that character is called in the text. The names in the `B` position, in other words, should be exact transcriptions of any name that specific character is called at any point in the text. These can have spaces, and should be separated by a comma. The name in the `A` position can also have spaces, but I ended up not using them because it made analysis I wanted to do later using `igraph` easier. Here's an example from a list for Neal Stephenson's _Cryptonomicon_:<br/>
+The character list the tool requires is formatted simply: `A: B1, B2, B3, etc` where `A` is the name the character will be listed as in your networks, and `B1` etc are any name that character is called in the text. The names in the `B` position, in other words, should be exact transcriptions of any name that specific character is called at any point in the text. These can have spaces, and should be separated by a comma. The name in the `A` position can also have spaces, but I ended up not using them because it made analysis I wanted to do later using `igraph` easier. Here's an example from a list for Neal Stephenson's _Cryptonomicon_:<br/>
 >Amy: Amy Shaftoe, Amy<br/>
 >Andrew: Andrew, Andrew Loeb, Andrews, Andy, Andy Loeb, Loeb<br/>
 
