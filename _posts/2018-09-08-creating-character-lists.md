@@ -35,8 +35,8 @@ To create one of these lists from scratch, I started with a plain-text version o
 Here's where I followed some of the instructions from [this tutorial by Erick Peirson](https://erickpeirson.github.io/python/2015/05/01/named-entity-recognition.html). I downloaded [Stanford's NER package](https://nlp.stanford.edu/software/CRF-NER.shtml#Download) and unpacked it in my home directory.
 
 ### 3. Tag your text
-I used my terminal to `cd` into this directory, where I had also placed the plain-text file I had just cleaned up. I ran the following shell command (just type this into your terminal):
-```./ner.sh ./your-plain-text-file.txt > ./your-plain-text-file_tagged.txt```
+I used my terminal to `cd` into this directory, where I had also placed the plain-text file I had just cleaned up. I ran the following shell command (just type this into your terminal):<br/>
+```./ner.sh ./your-plain-text-file.txt > ./your-plain-text-file_tagged.txt```<br/>
 The first part of this command tells the NER package to run, and to use the plain-text file you moved into that folder. The `>` operator directs the output of this operation (the tagging) to a new file, which you call whatever you like. See Peirson's tutorial for more details on this.<br/>
 **Note:** Ideally, we would want to do the tagging using Python too, perhaps with the NER Python package. However, I couldn't figure out how to get that package to work correctly.
 
