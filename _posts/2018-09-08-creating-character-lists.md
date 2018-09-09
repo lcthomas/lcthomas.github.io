@@ -4,20 +4,20 @@ author: lindsaythomas
 layout: post
 permalink: /2018/09/creating-character-lists/
 ---
-## Lengthly preamble
+## Lengthy preamble
 Recently I've been trying to teach myself something about network analysis, and I ran across [this article](https://www.degruyter.com/view/j/itit.2018.60.issue-1/itit-2017-0023/itit-2017-0023.xml?intcmp=trendmd#j_itit-2017-0023_fn_003) by Markus Luczak-Roesch, Adam Grener, and Emma Fenton, called "Not-so-distant reading: A dynamic network approach to literature" ([project site](https://vuw-fair.github.io/dickens-and-data-science/)) It describes a tool for generating dynamic and static networks of character occurrences in a text using R, which I'm sort of familiar with. The authors direct readers to their [Github repo](https://github.com/vuw-sim-stia/lit-cascades), so I decided to check it out.
 
 If you want to use the tool to model connections between characters in a novel, the software requires two inputs: a plain-text file of the novel you want to examine, and a list of the characters in that novel. More on that in a second. From those inputs, the program returns a variety of outputs, including two different network models of character co-occurrences and various analyses of these models. I encourage you to read Luczak-Roesch et al's piece for more about the tool, including descriptions of the network models. It's a pretty fun tool to experiment with, and, if you are familiar with RStudio, it's not that hard to get up and running on your own machine. (A warning, however: As with all R scripts, you might have some problems trying to install the packages you will need. One that gives lots of people trouble in particular is rJava, which the rWeka package uses. rJava issues always take me forever to figure out.)
 
-This post, however, focuses on a method for creating character lists to use with the tool. One of the things that's always stopped me from doing anything with network analysis in the past is the sheer amount of labor involved in creating something like a social network of character co-occurrences in a novel, especially a contemporary text. I wasn't sure how best to approach the problem. Luczak-Roesch et al's tool gets you part of the way there: it defines what constitutes a "connection" between characters, and creates the networks. But in order to create networks of character appearances, you still have to provide a list of the characters in the novel. And for novels without readily available character lists, this means putting in lots of work to create such lists for each novel you want to analyze.
+This post, however, focuses on a method for creating character lists to use with the tool. One of the things that's always stopped me from doing anything with network analysis in the past is the sheer amount of labor involved in creating something like a social network of character co-occurrences in a novel, especially a contemporary text. I wasn't sure how best to approach the problem. Luczak-Roesch et al's tool gets you part of the way there: it defines what constitutes a "connection" between characters, and creates the networks. But in order to create networks of character appearances, you still have to provide a list of the characters in the novel. And for novels without readily available character lists, this means putting in lots of work to create such lists for each novel you want to analyze.<br/>
 **Note:** The software is also designed to run in an unsupervised way -- you can create networks of verb co-occurrence in a novel, for instance -- but capturing networks of characters specifically would still require supervision. For more on using the tool in an unsupervised fashion, see Luczak-Roesch et al, pg 32.
 
 Will the method I am about to describe save you that labor and time? Not really! But it will provide you with a starting point for that work, particularly for novels for which you cannot find a reliable or full list of characters.
 
 The character list the tool requires is formatted simply: `A: B~1~, B~2~, B~3~, etc,` where `A` is the name the character will be listed as in your networks, and `B~1~` etc are any name that character is called in the text. The names in the `B` position, in other words, should be exact transcriptions of any name that specific character is called at any point in the text. These can have spaces, and should be separated by a comma. The name in the `A` position can also have spaces, but I ended up not using them because it made analysis I wanted to do later using `igraph` easier. Here's an example from a list for Neal Stephenson's _Cryptonomicon_:<br/>
-```Amy: Amy Shaftoe, Amy<br/>
-Andrew: Andrew, Andrew Loeb, Andrews, Andy, Andy Loeb, Loeb<br/>
-```
+>Amy: Amy Shaftoe, Amy<br/>
+>Andrew: Andrew, Andrew Loeb, Andrews, Andy, Andy Loeb, Loeb<br/>
+
 Luczak-Roesch et al have made the character lists they used with the tool (for 19 nineteenth-century British novels) available with the software on Github; additional character lists are being collected here: [https://osf.io/ewf4j/](https://osf.io/ewf4j/).
 
 ## The steps
@@ -37,13 +37,13 @@ Here's where I followed some of the instructions from [this tutorial by Erick Pe
 ### 3. Tag your text
 I used my terminal to `cd` into this directory, where I had also placed the plain-text file I had just cleaned up. I ran the following shell command (just type this into your terminal):
 ```./ner.sh ./your-plain-text-file.txt > ./your-plain-text-file_tagged.txt```
-The first part of this command tells the NER package to run, and to use the plain-text file you moved into that folder. The `>` operator directs the output of this operation (the tagging) to a new file, which you call whatever you like. See Peirson's tutorial for more details on this.
+The first part of this command tells the NER package to run, and to use the plain-text file you moved into that folder. The `>` operator directs the output of this operation (the tagging) to a new file, which you call whatever you like. See Peirson's tutorial for more details on this.<br/>
 **Note:** Ideally, we would want to do the tagging using Python too, perhaps with the NER Python package. However, I couldn't figure out how to get that package to work correctly.
 
 ### 4. Clean up your tagged text
 Now you have the tagged text, but it's not in a useful form for our purposes just yet. Here's an example of what it looks like:
->Bobby/PERSON Shaftoe/PERSON ,/O and/O the/O other/O halfdozen/O Marines/O on/O his/O truck/O ,/O are/O staring/O down/O the/O >length/O of/O Kiukiang/LOCATION Road/LOCATION ,/O onto/O which/O theyve/O just/O made/O this/O careening/O highspeed/O turn/O >./O 
-The NER tagger will tag 4 classes by default: PERSON, LOCATION, ORGANIZATION, and misc (/O). But we just want a list of all of the entities tagged as PERSON, with first and last names combined. I put together a very hacky and bad Jupyter notebook that will do just this. You can find it on Github. I'm still in the very early stages of learning Python, so I want to stress again that it's bad and very stupid -- but it worked for my purposes. The notebook contains more instructions about how to use it.
+>Bobby/PERSON Shaftoe/PERSON ,/O and/O the/O other/O halfdozen/O Marines/O on/O his/O truck/O ,/O are/O staring/O down/O the/O >length/O of/O Kiukiang/LOCATION Road/LOCATION ,/O onto/O which/O theyve/O just/O made/O this/O careening/O highspeed/O turn/O >./O
+The NER tagger will tag 4 classes by default: PERSON, LOCATION, ORGANIZATION, and misc (/O). But we just want a list of all of the entities tagged as PERSON, with first and last names combined. I put together a very hacky and bad Jupyter notebook that will do just this. You can find it on Github. I'm still in the very early stages of learning Python, so I want to stress again that it's bad and very stupid -- but it worked for my purposes. The notebook contains more instructions about how to use it.<br/>
 **Note:** We could use the NER shell package to print out each entity and its class to a 2-column csv (more details on that here: [https://nlp.stanford.edu/software/CRF-NER.shtml#Starting](https://nlp.stanford.edu/software/CRF-NER.shtml#Starting)), but we would still need to do some post-processing to get a list of all of the PERSON entities.
 
 ### 5. Clean up your entity list
