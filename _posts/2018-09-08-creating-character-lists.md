@@ -43,6 +43,7 @@ The first part of this command tells the NER package to run, and to use the plai
 ### 4. Clean up your tagged text
 Now you have the tagged text, but it's not in a useful form for our purposes just yet. Here's an example of what it looks like:
 >Bobby/PERSON Shaftoe/PERSON ,/O and/O the/O other/O halfdozen/O Marines/O on/O his/O truck/O ,/O are/O staring/O down/O the/O length/O of/O Kiukiang/LOCATION Road/LOCATION ,/O onto/O which/O theyve/O just/O made/O this/O careening/O highspeed/O turn/O ./O
+
 The NER tagger will tag 4 classes by default: PERSON, LOCATION, ORGANIZATION, and misc (/O). But we just want a list of all of the entities tagged as PERSON, with first and last names combined. I put together a very hacky and bad Jupyter notebook that will do just this. You can find it on [Github](https://github.com/lcthomas/network-analysis-novels). I'm still in the very early stages of learning Python, so I want to stress again that it's bad and very stupid -- but it worked for my purposes. The notebook contains more instructions about how to use it.<br/>
 **Note:** We could use the NER shell package to print out each entity and its class to a 2-column csv (more details on that here: [https://nlp.stanford.edu/software/CRF-NER.shtml#Starting](https://nlp.stanford.edu/software/CRF-NER.shtml#Starting)), but we would still need to do some post-processing to get a list of all of the PERSON entities.
 
