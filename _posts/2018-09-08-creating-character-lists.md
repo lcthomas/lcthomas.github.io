@@ -14,9 +14,9 @@ This post, however, focuses on a method for creating character lists to use with
 
 Will the method I am about to describe save you that labor and time? Not really! But it will provide you with a starting point for that work, particularly for novels for which you cannot find a reliable or full list of characters.
 
-The character list the tool requires is formatted simply: `A: B~1~, B~2~, B~3~, etc,` where `A` is the name the character will be listed as in your networks, and `B~1~` etc are any name that character is called in the text. The names in the `B` position, in other words, should be exact transcriptions of any name that specific character is called at any point in the text. These can have spaces, and should be separated by a comma. The name in the `A` position can also have spaces, but I ended up not using them because it made analysis I wanted to do later using `igraph` easier. Here's an example from a list for Neal Stephenson's _Cryptonomicon_:
-```Amy: Amy Shaftoe, Amy
-Andrew: Andrew, Andrew Loeb, Andrews, Andy, Andy Loeb, Loeb
+The character list the tool requires is formatted simply: `A: B~1~, B~2~, B~3~, etc,` where `A` is the name the character will be listed as in your networks, and `B~1~` etc are any name that character is called in the text. The names in the `B` position, in other words, should be exact transcriptions of any name that specific character is called at any point in the text. These can have spaces, and should be separated by a comma. The name in the `A` position can also have spaces, but I ended up not using them because it made analysis I wanted to do later using `igraph` easier. Here's an example from a list for Neal Stephenson's _Cryptonomicon_:<br/>
+```Amy: Amy Shaftoe, Amy<br/>
+Andrew: Andrew, Andrew Loeb, Andrews, Andy, Andy Loeb, Loeb<br/>
 ```
 Luczak-Roesch et al have made the character lists they used with the tool (for 19 nineteenth-century British novels) available with the software on Github; additional character lists are being collected here: [https://osf.io/ewf4j/](https://osf.io/ewf4j/).
 
@@ -42,7 +42,7 @@ The first part of this command tells the NER package to run, and to use the plai
 
 ### 4. Clean up your tagged text
 Now you have the tagged text, but it's not in a useful form for our purposes just yet. Here's an example of what it looks like:
-```Bobby/PERSON Shaftoe/PERSON ,/O and/O the/O other/O halfdozen/O Marines/O on/O his/O truck/O ,/O are/O staring/O down/O the/O length/O of/O Kiukiang/LOCATION Road/LOCATION ,/O onto/O which/O theyve/O just/O made/O this/O careening/O highspeed/O turn/O ./O ```
+>Bobby/PERSON Shaftoe/PERSON ,/O and/O the/O other/O halfdozen/O Marines/O on/O his/O truck/O ,/O are/O staring/O down/O the/O >length/O of/O Kiukiang/LOCATION Road/LOCATION ,/O onto/O which/O theyve/O just/O made/O this/O careening/O highspeed/O turn/O >./O 
 The NER tagger will tag 4 classes by default: PERSON, LOCATION, ORGANIZATION, and misc (/O). But we just want a list of all of the entities tagged as PERSON, with first and last names combined. I put together a very hacky and bad Jupyter notebook that will do just this. You can find it on Github. I'm still in the very early stages of learning Python, so I want to stress again that it's bad and very stupid -- but it worked for my purposes. The notebook contains more instructions about how to use it.
 **Note:** We could use the NER shell package to print out each entity and its class to a 2-column csv (more details on that here: [https://nlp.stanford.edu/software/CRF-NER.shtml#Starting](https://nlp.stanford.edu/software/CRF-NER.shtml#Starting)), but we would still need to do some post-processing to get a list of all of the PERSON entities.
 
