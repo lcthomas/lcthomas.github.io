@@ -7,13 +7,14 @@ permalink: /teaching/
 
 **Undergraduate Courses**
 
-- Contemporary Literature ([Spring 2017](https://lindsaythomas.net/eng380s17), [Spring 2018](https://lindsaythomas.net/eng380s18))
-- Contemporary Disaster Fiction ([Fall 2016](https://lindsaythomas.net/eng210h))
-- Print Literature After Print ([Fall 2016](https://lindsaythomas.net/eng495f), [Spring 2018](https://lindsaythomas.net/eng380s18))
+- ENG 380: Contemporary Literature ([Spring 2017](https://lindsaythomas.net/eng380s17), [Spring 2018](https://lindsaythomas.net/eng380s18))
+- ENG 210: Contemporary Disaster Fiction ([Fall 2016](https://lindsaythomas.net/eng210h))
+- ENG 495: Print Literature After Print ([Fall 2016](https://lindsaythomas.net/eng495f), [Spring 2018](https://lindsaythomas.net/eng380s18))
 
 **Graduate Courses**
 
-- Digital Humanities: Theory, Method, Critique ([Spring 2017](https://lindsaythomas.net/mll621)), co-taught with Allison Schifani
+- MLL 621/ENG 695: Digital Humanities: Theory, Method, Critique ([Spring 2017](https://lindsaythomas.net/mll621)), co-taught with Allison Schifani
+- ENG 682: Concepts in Humanities Data Analysis ([Spring 2019](http://lindsaythomas.net/eng682s19/))
 
 ### Clemson University
 
