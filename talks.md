@@ -4,6 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 ### Invited Talks
+- "What Are Long Novels?: Network Analysis and Contemporary US Fiction," California State University Northridge, November 2018.
 - “The WhatEvery1Says Project: Machine Learning and the Humanities,” Computer Science seminar, University of Miami, April 2018.
 - “National Security and the Resilience of the Future,” Seminar on Media and Political Theory, Concordia University, Montreal, April 2017.
 - “What is a ‘Critical Digital Humanities?’”, University of Miami, January 2017.
