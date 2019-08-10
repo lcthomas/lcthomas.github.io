@@ -14,6 +14,7 @@ permalink: /teaching/
 **Graduate Courses**
 
 - MLL 621/ENG 695: Digital Humanities: Theory, Method, Critique ([Spring 2017](https://lindsaythomas.net/mll621)), co-taught with Allison Schifani
+- ENG 681: Introduction to Literary Theory ([Fall 2019](https://lindsaythomas.net/eng681f19/))
 - ENG 682: Concepts in Humanities Data Analysis ([Spring 2019](http://lindsaythomas.net/eng682s19/))
 
 ### Clemson University
