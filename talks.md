@@ -4,6 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 ### Invited Talks
+- “Training for Catastrophe: National Security and the Use of Fiction After 9/11,” Futurity Factory Symposium, University of California, Davis, February 2019.
 - "What Are Long Novels?: Network Analysis and Contemporary US Fiction," California State University Northridge, November 2018.
 - “The WhatEvery1Says Project: Machine Learning and the Humanities,” Computer Science seminar, University of Miami, April 2018.
 - “National Security and the Resilience of the Future,” Seminar on Media and Political Theory, Concordia University, Montreal, April 2017.
@@ -12,11 +13,13 @@ permalink: /talks/
 - “Forms of Duration: Preparedness, the Mars Trilogy, and the Management of Climate Change,” Duke/UNC Americanist Speaker Series, October 2014.
 
 ### Conference Panels and Forums Organized
+- “On Length: The Long and the Short of It,” American Comparative Literature Association, Washington DC, March 2019. With Shannon Brennan.
 - “Contamination and Quarantine,” American Comparative Literature Association, Seattle, WA, March 2015. With Steve Pokornowski.
 - “Security Media,” Society for Cinema and Media Studies, Chicago, IL, March 2013.
 - ["Living Mediations: Biology, Technology, and Art,"](https://www.hastac.org/initiatives/hastac-scholars/scholars-forums/living-mediations-biology-technology-and-art) HASTAC forum co-author and co-host, March 2011.
 
 ## Conference Presentations
+- “Long Novels,” DH Approaches to the Arts of the Present seminar, Association for the Study of the Arts of the Present, College Park, MD, October 2019.
 - "‘The Irrational Sense of Having Done One’s Job Well’: Professionalization, Graduate Education, and DH," Modern Language Association annual convention, Chicago, January 2019, session 639
 - "The Use of Visionary Fiction," Modern Language Association annual convention, Chicago, January 2019, session 383
 - "The End Is Near: Doomsday, Dystopia, Disaster, and Contemporary Aesthetics," seminar participant, Association for the Study of the Arts of the Present conference, New Orleans, October 2018
