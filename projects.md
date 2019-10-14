@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-- **_Training for Catastrophe: National Security and the Use of Fiction after 9/11_**, book. Under contract with University of Minnesota Press<br/>
+- **_Training for Catastrophe: National Security and the Use of Fiction after 9/11_**, book. Under contract with the University of Minnesota Press<br/>
 _Training for Catastrophe_  investigates the use of fiction as a mode of knowledge production within the ostensibly practical, fact-based discourses of contemporary US national security. I argue this dependence on fiction is central to a political project to depoliticize disaster. The book focuses specifically on preparedness, a national security paradigm that moved to the center of US policy after September 11, 2001 and that simulates future catastrophic threats in order to plan for their emergence. I examine a wide-ranging archive of post-9/11 preparedness media, including policy documents, workplace disaster training materials, emergency management textbooks, simulation exercises, political speeches, preparedness plans, online games, and public awareness videos. I contend these materials use the fictions they create to train people to accept some catastrophes as part of everyday life while ignoring others.
 
 - **WhatEvery1Says,** 2014-present: Co-PI<br/>
