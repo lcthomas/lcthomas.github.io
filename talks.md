@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 ### Invited Talks
+- “Literature and the Humanities,” The Evolving Humanities Speaker Series, sponsored by OLLI and the Center for Humanities at the University of Miami, November 2020.
+- “The Humanities and Data Science,” Introduction to Data Science, sponsored by the College of Arts and Science and The Institute for Data Science and Computing at the University of Miami, July 2020. 
 - “Training for Catastrophe: National Security and the Use of Fiction After 9/11,” Futurity Factory Symposium, University of California, Davis, February 2019.
 - "What Are Long Novels?: Network Analysis and Contemporary US Fiction," California State University Northridge, November 2018.
 - “The WhatEvery1Says Project: Machine Learning and the Humanities,” Computer Science seminar, University of Miami, April 2018.
