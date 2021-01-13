@@ -8,7 +8,7 @@ permalink: /teaching/
 **Undergraduate Courses**
 
 - ENG 210: Contemporary Disaster Fiction ([Fall 2016](https://lindsaythomas.net/eng210h))
-- ENG 380: Contemporary Literature ([Spring 2017](https://lindsaythomas.net/eng380s17), [Spring 2018](https://lindsaythomas.net/eng380s18)), [Spring 2020](https://lindsaythomas.net/eng380s21/)
+- ENG 380: Contemporary Literature ([Spring 2017](https://lindsaythomas.net/eng380s17), [Spring 2018](https://lindsaythomas.net/eng380s18), [Spring 2020](https://lindsaythomas.net/eng380s21/))
 - ENG 395 (special topics): Data & Society ([Spring 2021](https://lindsaythomas.net/eng395s21/))
 - ENG 485: American Literature from 1945-Present ([Fall 2020](https://lindsaythomas.net/eng-485-f20-syllabus.pdf))
 - ENG 495: Print Literature After Print ([Fall 2016](https://lindsaythomas.net/eng495f), [Spring 2018](https://lindsaythomas.net/eng380s18))
