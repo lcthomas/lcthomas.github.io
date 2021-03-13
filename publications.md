@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 ### Book
-- [*Training for Catastrophe: National Security and the Use of Fiction After 9/11*](https://www.upress.umn.edu/book-division/books/training-for-catastrophe){:target="_blank"}. Forthcoming, March 2021 (University of Minnesota Press). Investigates the use of fiction as a mode of knowledge production within contemporary US national security discourse, arguing that this dependence on fiction – at once strange, remarkable, and unsettling – is a political tool for shaping how we imagine and respond to catastrophe today.
+- [*Training for Catastrophe: National Security and the Use of Fiction After 9/11*](https://www.upress.umn.edu/book-division/books/training-for-catastrophe){:target="_blank"}. University of Minnesota Press, 2021. Investigates the use of fiction as a mode of knowledge production within contemporary US national security discourse, arguing that this dependence on fiction – at once strange, remarkable, and unsettling – is a political tool for shaping how we imagine and respond to catastrophe today.
 
 ### Articles and Book Chapters
 - “Modeling Long Novels: Network Analysis and *A Brief History of Seven Killings*,” [*The Palgrave Handbook of Twentieth and Twenty-First Century Literature and Science*](https://www.palgrave.com/us/book/9783030482435){:target="_blank"}, eds. The Triangle Collective (Palgrave). 2020, 653-667.
