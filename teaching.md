@@ -19,6 +19,7 @@ permalink: /teaching/
 - MLL 621/ENG 695: Digital Humanities: Theory, Method, Critique ([Spring 2017](https://lindsaythomas.net/mll621){:target="_blank"}), co-taught with Allison Schifani
 - ENG 681: Introduction to Literary Theory ([Fall 2019](https://lindsaythomas.net/eng681f19/){:target="_blank"})
 - ENG 682: Concepts in Humanities Data Analysis ([Spring 2019](http://lindsaythomas.net/eng682s19/){:target="_blank"})
+- ENG 696: Academic Writing and Publishing Practicum ([Spring 2020](https://lindsaythomas.net/eng696s20/){:target="_blank"})
 
 ### Clemson University
 
