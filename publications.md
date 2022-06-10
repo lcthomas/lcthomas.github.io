@@ -7,7 +7,7 @@ permalink: /publications/
 - [*Training for Catastrophe: National Security and the Use of Fiction After 9/11*](https://www.upress.umn.edu/book-division/books/training-for-catastrophe){:target="_blank"}. University of Minnesota Press, 2021. Investigates the use of fiction as a mode of knowledge production within contemporary US national security discourse, arguing that this dependence on fiction – at once strange, remarkable, and unsettling – is a political tool for shaping how we imagine and respond to catastrophe today.
 
 ### Articles and Book Chapters
-  - “What Everyone Says About the Humanities: Public Perceptions of the Humanities in the Media,” Alan Liu, Abigail Droge, Scott Kleinman, Lindsay Thomas, Dan C. Baciu, and Jeremy Douglass, *Daedalus*, 151.3 (Summer 2022) 
+  - “What Everyone Says About the Humanities: Public Perceptions of the Humanities in the Media,” Alan Liu, Abigail Droge, Scott Kleinman, Lindsay Thomas, Dan C. Baciu, and Jeremy Douglass, *Daedalus*, 151.3 (Summer 2022)
   - ["The Humanities in Public: A Computational Analysis of US National and Campus Newspapers,"](https://culturalanalytics.org/article/32036-the-humanities-in-public-a-computational-analysis-of-us-national-and-campus-newspapers){:target="_blank"} co-authored with Abigail Droge, _Journal of Cultural Analytics_, January 18, 2022.
 - “Modeling Long Novels: Network Analysis and *A Brief History of Seven Killings*,” [*The Palgrave Handbook of Twentieth and Twenty-First Century Literature and Science*](https://www.palgrave.com/us/book/9783030482435){:target="_blank"}, eds. The Triangle Collective (Palgrave). 2020, 653-667.
 * “Preparedness Documents After the Fact,” [*The Routledge Companion to Media and Risk*](https://www.routledge.com/The-Routledge-Companion-to-Media-and-Risk/Ghosh-Sarkar/p/book/9781138638938){:target="_blank"}, eds. Bhaskar Sarkar and Bishnupriya Ghosh (Routledge). 2020, 165-176.
@@ -21,3 +21,9 @@ permalink: /publications/
   - ["What We Learned About the Humanities from a Study of Thousands of Newspaper Articles,"](https://culturalanalytics.org/article/35907-what-we-learned-about-the-humanities-from-a-study-of-thousands-of-newspaper-articles){:target="_blank"} co-authored with Abigail Droge, *Journal of Cultural Analytics*, May 24, 2002.
   - [Review of John Hay, *Postapocalyptic Fantasies in Antebellum American Literature* (2017); Johannes Voelz, *The Poetics of Insecurity* (2018); and Timothy Recuber, *Consuming Catastrophe: Mass Culture in America’s Decade of Disaster* (2016)](https://read.dukeupress.edu/american-literature/article-abstract/92/1/159/156860/Postapocalyptic-Fantasies-in-Antebellum-American?redirectedFrom=fulltext){:target="_blank"}; *American Literature* 92.1 (2020): 159-161.
 - ["Why We Read Novels,"](https://muse.jhu.edu/article/591469){:target="_blank"} _Contemporary Literature_ 56.2 (Summer 2015): 386-93.
+
+### Software and Datasets
+- WE1S Datasets, co-authored with WE1S project participants. [Click here to access all datasets and doi’s](https://zenodo.org/search?page=1&size=20&q=%2Bwe1s%20%2Bdataset%20-%22WE1S%20Collection%20Registry%20ID%22).
+    - 6 datasets totaling ~9.7 million records, including newspaper and magazine articles, posts from Twitter and Reddit, and TV and radio news transcripts, mainly from documents published or posted between 2005 and 2018.
+- WE1S Workspace, co-authored with WE1S project participants. <https://doi.org/10.5281/zenodo.5034712>.
+    - A containerized environment for importing, managing, and analyzing textual data using a variety of built-in analysis and visualization tools. Contains software for replicating WE1S data analysis workflows and allows users to upload their own data for analysis using our processes.
