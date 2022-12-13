@@ -12,7 +12,7 @@ permalink: /teaching/
 - ENG 395 (special topics): Data & Society ([Spring 2021](https://lindsaythomas.net/eng395s21/){:target="_blank"})
 - ENG 485: American Literature from 1945-Present ([Fall 2020](https://lindsaythomas.net/eng-485-f20-syllabus.pdf){:target="_blank"})
 - ENG 495: Print Literature After Print ([Fall 2016](https://lindsaythomas.net/eng495f){:target="_blank"}, [Spring 2018](https://lindsaythomas.net/eng380s18){:target="_blank"})
-- GSS 202: Introduction to LGBTQ Studies ([Fall 2020](https://lindsaythomas.net/gss-202-f20-syllabus.pdf){:target="_blank"}, [Fall 2021](https://lindsaythomas.net/gss202f21/){:target="_blank"})
+- GSS 202: Introduction to LGBTQ Studies ([Fall 2020](https://lindsaythomas.net/gss-202-f20-syllabus.pdf){:target="_blank"}, [Fall 2021](https://lindsaythomas.net/gss202f21/){:target="_blank"}, [Fall 2022](https://lindsaythomas.net/gss202f22){:target="_blank"})
 
 **Graduate Courses**
 
