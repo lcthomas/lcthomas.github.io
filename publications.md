@@ -18,8 +18,10 @@ permalink: /publications/
 - ["Speculative Environments: Spaces of Disease Surveillance,"](http://www.mediafieldsjournal.org/speculative-environments/2011/12/29/speculative-environments-spaces-of-disease-surveillance.html){:target="_blank"} _Media Fields Journal_ 4 (2012).
 
 ### Reviews and Other Writing
-  - ["What We Learned About the Humanities from a Study of Thousands of Newspaper Articles,"](https://culturalanalytics.org/article/35907-what-we-learned-about-the-humanities-from-a-study-of-thousands-of-newspaper-articles){:target="_blank"} co-authored with Abigail Droge, *Journal of Cultural Analytics*, May 24, 2002.
-  - [Review of John Hay, *Postapocalyptic Fantasies in Antebellum American Literature* (2017); Johannes Voelz, *The Poetics of Insecurity* (2018); and Timothy Recuber, *Consuming Catastrophe: Mass Culture in America’s Decade of Disaster* (2016)](https://read.dukeupress.edu/american-literature/article-abstract/92/1/159/156860/Postapocalyptic-Fantasies-in-Antebellum-American?redirectedFrom=fulltext){:target="_blank"}; *American Literature* 92.1 (2020): 159-161.
+
+- ["Thinking With Robots"](https://read.dukeupress.edu/american-literature/article/doi/10.1215/00029831-10575162/344222/Thinking-with-Robots){:target="_blank"}, *American Literature* 95.2 (2023): 381-395.
+- ["What We Learned About the Humanities from a Study of Thousands of Newspaper Articles,"](https://culturalanalytics.org/article/35907-what-we-learned-about-the-humanities-from-a-study-of-thousands-of-newspaper-articles){:target="_blank"} co-authored with Abigail Droge, *Journal of Cultural Analytics*, May 24, 2002.
+- [Review of John Hay, *Postapocalyptic Fantasies in Antebellum American Literature* (2017); Johannes Voelz, *The Poetics of Insecurity* (2018); and Timothy Recuber, *Consuming Catastrophe: Mass Culture in America’s Decade of Disaster* (2016)](https://read.dukeupress.edu/american-literature/article-abstract/92/1/159/156860/Postapocalyptic-Fantasies-in-Antebellum-American?redirectedFrom=fulltext){:target="_blank"}; *American Literature* 92.1 (2020): 159-161.
 - ["Why We Read Novels,"](https://muse.jhu.edu/article/591469){:target="_blank"} _Contemporary Literature_ 56.2 (Summer 2015): 386-93.
 
 ### Software and Datasets
