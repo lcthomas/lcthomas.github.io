@@ -7,6 +7,7 @@ permalink: /teaching/
 
 **Undergraduate Courses**
 
+- ENG 106: Writing About Literature and Culture -- Zora Neale Hurston ([Spring 2023](https://lindsaythomas.net/eng106s23/){:target="_blank"})
 - ENG 210: Contemporary Disaster Fiction ([Fall 2016](https://lindsaythomas.net/eng210h){:target="_blank"})
 - ENG 380: Contemporary Literature ([Spring 2017](https://lindsaythomas.net/eng380s17), [Spring 2018](https://lindsaythomas.net/eng380s18){:target="_blank"}, [Spring 2021](https://lindsaythomas.net/eng380s21/){:target="_blank"})
 - ENG 395 (special topics): Data & Society ([Spring 2021](https://lindsaythomas.net/eng395s21/){:target="_blank"})
