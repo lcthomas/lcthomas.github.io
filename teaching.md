@@ -3,6 +3,14 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+### Cornell University
+
+**Undergraduate Courses**
+- ENGL 3630/AMST 3632: US Literature and the End of the American Century ([Spring 2024](https://lindsaythomas.net/engl3630s24/){:target="_blank"})
+
+**Graduate Courses**
+- ENGL 6701: Humanities Data ([Spring 2024](https://lindsaythomas.net/engl6701s24/){:target="_blank"})
+
 ### University of Miami
 
 **Undergraduate Courses**
