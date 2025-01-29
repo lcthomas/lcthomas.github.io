@@ -7,6 +7,7 @@ permalink: /teaching/
 
 **Undergraduate Courses**
 - ENGL 3630/AMST 3632: US Literature and the End of the American Century ([Spring 2024](https://lindsaythomas.net/engl3630s24/){:target="_blank"})
+- ENGL 4771: Social Media and Contemporary Literature ([Spring 2025](https://lindsaythomas.net/engl4771s25/){:target="_blank"})
 
 **Graduate Courses**
 - ENGL 6701: Humanities Data ([Spring 2024](https://lindsaythomas.net/engl6701s24/){:target="_blank"})
