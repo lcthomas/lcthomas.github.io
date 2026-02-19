@@ -19,7 +19,11 @@ permalink: /talks/
 - “Forms of Duration: Preparedness, the Mars Trilogy, and the Management of Climate Change,” Duke/UNC Americanist Speaker Series, October 2014.
 
 ## Selected Conference Presentations
-- “Are Bots Characters?”, Modern Language Association conference, San Francisco, January 2023.
+- “Reading and Not Reading the Long Novel,” Society for Novel Studies, Durham, May 2025.
+- “The Violence of Genre,” Modern Language Association, New Orleans, January 2025.
+- “Speed Reading the Novel,” American Comparative Literature Association, Montreal, March 2024.
+- “Popular Enough: Commercial Fiction and the Algorithmic Middlebrow,” Modern Language Association, Philadelphia, January 2024.
+  - “Are Bots Characters?”, Modern Language Association conference, San Francisco, January 2023.
 - “Why Don’t We Like Computer-Generated Novels?: Scale, Labor Time, and the Algorithmic Middlebrow,” Association for the Study of the Arts of the Present conference, Los Angeles, September 2022.
 - “Long Novels,” DH Approaches to the Arts of the Present seminar, Association for the Study of the Arts of the Present, College Park, MD, October 2019.
 - "‘The Irrational Sense of Having Done One’s Job Well’: Professionalization, Graduate Education, and DH," Modern Language Association annual convention, Chicago, January 2019, session 639
