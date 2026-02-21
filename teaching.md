@@ -6,10 +6,13 @@ permalink: /teaching/
 ### Cornell University
 
 **Undergraduate Courses**
+- ENGL/INFO 1340: Books as Data (Spring 2026)
+    - co-taught with Matthew Wilkens
 - ENGL 3630/AMST 3632: US Literature and the End of the American Century ([Spring 2024](https://lindsaythomas.net/engl3630s24/){:target="_blank"})
 - ENGL 4771: Social Media and Contemporary Literature ([Spring 2025](https://lindsaythomas.net/engl4771s25/){:target="_blank"})
 
 **Graduate Courses**
+- ENGL 6000: Colloquium for Entering Studies ([Fall 2024](https://lindsaythomas.net/engl6000f24/){:target="_blank"}, [Fall 2025](https://lindsaythomas.net/engl6000f25/){:target="_blank"})
 - ENGL 6701: Humanities Data ([Spring 2024](https://lindsaythomas.net/engl6701s24/){:target="_blank"})
 
 ### University of Miami
@@ -27,7 +30,8 @@ permalink: /teaching/
 **Graduate Courses**
 
 - ENG 612/MLL 772: Topics in DH: Humanities Data ([Spring 2022](https://lindsaythomas.net/eng612s22/){:target="_blank"})
-- MLL 621/ENG 695: Digital Humanities: Theory, Method, Critique ([Spring 2017](https://lindsaythomas.net/mll621){:target="_blank"}), co-taught with Allison Schifani
+- MLL 621/ENG 695: Digital Humanities: Theory, Method, Critique ([Spring 2017](https://lindsaythomas.net/mll621){:target="_blank"})
+    - co-taught with Allison Schifani
 - ENG 681: Introduction to Literary Theory ([Fall 2019](https://lindsaythomas.net/eng681f19/){:target="_blank"})
 - ENG 682: Concepts in Humanities Data Analysis ([Spring 2019](http://lindsaythomas.net/eng682s19/){:target="_blank"})
 - ENG 696: Academic Writing and Publishing Practicum ([Spring 2020](https://lindsaythomas.net/eng696s20/){:target="_blank"})
